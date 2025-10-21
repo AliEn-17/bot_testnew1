@@ -20,6 +20,7 @@ C:\Users\Admin\Downloads\BOT PROJECT 29\create_db.py
 C:\Users\Admin\Downloads\BOT PROJECT 29\bot.py
 C:\Users\Admin\Downloads\M7U4\M7L4_User_Management_System_DB\.gitignore
 https://github.com/KodlandLVL3/M2L3/blob/main/config.py
+"C:\Users\Admin\Downloads\test44.py"
 
 # Что нужно писать с нуля:
 Писать с нуля не обязательно, просто необходимо переписать код с файлов и поменять его в следующем: токен нового бота, основную логику, и тд.
