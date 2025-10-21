@@ -32,4 +32,4 @@ C:\Users\Admin\Downloads\M7U4\M7L4_User_Management_System_DB\.gitignore
 # Связь с разработчиками
 mail.ru:
 1 - eburceva1183@gmail.com
-2 - ...
+2 - enns.alisa@gmail.com
