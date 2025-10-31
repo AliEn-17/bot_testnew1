@@ -35,3 +35,6 @@ https://github.com/KodlandLVL3/M2L3/blob/main/config.py
 mail.ru:
 1 - eburceva1183@gmail.com ⬅️
 2 - enns.alisa@gmail.com ⬅️
+
+<img width="260" height="188" alt="Снимок экрана 2025-10-31 160254" src="https://github.com/user-attachments/assets/59ecca35-317b-497b-990e-7d225d82e72d" />
+<img width="934" height="858" alt="Снимок экрана 2025-10-31 160243" src="https://github.com/user-attachments/assets/a8c018d4-1dcb-42c1-8ce5-2ffb0a93d119" />
